@@ -1,4 +1,5 @@
 # Termio
+[![Release](https://img.shields.io/github/v/release/soft-jp-com/termio)](https://github.com/soft-jp-com/termio/releases)
 
 **Termio** is a lightweight local web terminal for Windows.  
 It allows you to access and run command-line tools from your browser.
