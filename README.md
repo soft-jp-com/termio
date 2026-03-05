@@ -18,6 +18,11 @@ Termio runs locally on your machine and provides a simple web interface for inte
 
 ---
 
+## website  
+https://termio.soft-jp.com/
+
+---
+
 ## Download
 
 Download the latest version from GitHub Releases.
@@ -46,7 +51,6 @@ git status
 go build
 npm run dev
 
-
 ---
 
 ## Security
@@ -64,6 +68,8 @@ Termio runs locally on your machine and does not send data to external servers.
 
 ## License
 
-Copyright (c) soft-jp-com
+Copyright (c) soft-jp.com
 
 This software is provided "as is", without warranty of any kind.
+
+---
