@@ -1,20 +1,36 @@
 # Termio
 [![Release](https://img.shields.io/github/v/release/soft-jp-com/termio)](https://github.com/soft-jp-com/termio/releases)
 
-**Termio** is a lightweight local web terminal for Windows.  
-It allows you to access and run command-line tools from your browser.
+**Termio** is a lightweight local web terminal for Windows.
 
-Termio runs locally on your machine and provides a simple web interface for interacting with your terminal.
+It allows you to arrange and run up to 36 command-line tools in your preferred layout from your browser. It supports major AI CLIs, making it ideal for AI development.
+
+
+![demo](https://github.com/user-attachments/assets/93cb279f-8942-495e-965f-a314e4623ec9)
+
 
 ---
 
 ## Features
 
 - Browser-based terminal for Windows
-- Access your local command line from a web browser
-- Lightweight and easy to install
-- Works with common CLI tools
-- Simple and clean interface
+- Easy installation from the installer
+- Up to 36 terminals on one screen with multi-pane functionality
+- Supports major CLI development tools
+    - CMD
+    - PowerShell
+    - Cloud Code CLI
+    - Gemini Code Assist CLI
+    - OpenAI CodeX CLI
+    - GitHub Copilot CLI
+    - Cursor CLI
+    - Aider CLI
+    - Goose CLI
+    - OpenCode CLI
+    - Amp CLI
+    - Qwen Code CLI
+- Powerful command input assistance (61 presets)
+- Processing completion notifications (pane light, audio notification, tray notification)
 
 ---
 
