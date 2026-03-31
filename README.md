@@ -29,7 +29,15 @@ It allows you to arrange and run up to 36 command-line tools in your preferred l
     - OpenCode CLI
     - Amp CLI
     - Qwen Code CLI
-- Powerful command input assistance (61 presets)
+- Powerful command input assistance
+    - cmd
+    - powershell
+    - git
+    - docker
+    - kubectl
+    - wsl
+    - cygwin
+    - msys2
 - Processing completion notifications (pane light, audio notification, tray notification)
 
 ---
