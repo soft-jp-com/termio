@@ -1,7 +1,7 @@
-# Termio
+# SoftJP TermioWin
 [![Release](https://img.shields.io/github/v/release/soft-jp-com/termio)](https://github.com/soft-jp-com/termio/releases)
 
-**Termio** is a lightweight local web terminal for Windows.
+**TermioWin** is a lightweight local web terminal for Windows.
 
 It allows you to arrange and run up to 36 command-line tools in your preferred layout from your browser. It supports major AI CLIs, making it ideal for AI development.
 
@@ -59,14 +59,14 @@ https://github.com/soft-jp-com/termio/releases
 
 1. Download the latest installer from the Releases page.
 2. Run the installer.
-3. Launch Termio.
+3. Launch TermioWin.
 4. Open your browser and access the local terminal.
 
 ---
 
 ## Usage
 
-After starting Termio, open your browser and connect to the local terminal interface.
+After starting TermioWin, open your browser and connect to the local terminal interface.
 
 You can run standard command-line tools just like a normal terminal.
 
@@ -79,7 +79,7 @@ npm run dev
 
 ## Security
 
-Termio runs locally on your machine and does not send data to external servers.
+TermioWin runs locally on your machine and does not send data to external servers.
 
 ---
 
