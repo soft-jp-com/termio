@@ -4,7 +4,7 @@
 **TermioWin** is a lightweight local web terminal for Windows.
 
 It allows you to arrange and run up to 36 command-line tools in your preferred layout from your browser. It supports major AI CLIs, making it ideal for AI development.
-
+The professional version offers a prompt flow feature to support harness development.
 
 ![demo](https://github.com/user-attachments/assets/93cb279f-8942-495e-965f-a314e4623ec9)
 
